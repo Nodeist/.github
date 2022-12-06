@@ -10,26 +10,6 @@
 - Website: https://nodeist.net
 - Youtube: https://www.youtube.com/channel/UC_vivGMWm8jLElJdLu5pgcw
 
-We operate highly secure, fast and stable validator nodes for many mainnet and testnet blockchains managed by experienced professionals. We have been operating validator nodes since June 2020 and gained valuable experience in these 2 years. We also provide the following contributions to the Ecosystem.
 
-## Contact us
-
-If you have any questions, you can reach us at:
-
-- Email: nodeistt@gmail.com
-- Twitter: https://twitter.com/Nodeistt
-- Telegram: https://t.me/Noodeist
-- Discord: Nodeist#3299
-- Website: https://nodeist.net
-
-## References
-### Mainnet Validators:
-- AcreChain
-- C4E
-- Jackal
-- Kujira
-- Rebus
-- Stride
-- Teritori
 
 
