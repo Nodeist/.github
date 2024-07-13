@@ -3,7 +3,7 @@
 # Nodeist Profile
 
 - Name: Nodeist
-- Email: admin@nodeist.net
+- Email: hello@nodeist.net
 - Telegram: @Noodeist
 - Discord: Nodeist#3299
 - Twitter: https://twitter.com/Nodeistt
